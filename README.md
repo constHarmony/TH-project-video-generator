@@ -23,7 +23,7 @@
 
 ## Step 3 - Running the code!
 
-1. Open the folder you extracted to files to
+1. Open the folder you extracted to zip files into
 
 2. Double-click the file 'run.bat'
 
