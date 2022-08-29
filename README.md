@@ -29,7 +29,7 @@
 
 That's it!
 
-* The first run will to build the entire environment which can take a few minutes.
+* The first run will build the entire environment which can take a few minutes.
 * the following first video render will also be a bit slow (3-5 minutes).
 * after that it should start running fast due to caching.
 
